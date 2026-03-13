@@ -72,7 +72,7 @@
 
 # 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+![](https://komarev.com/ghpvc/?username=AgastyaGupta26)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgastyaGupta26&show_icons=true&theme=tokyonight)
 
